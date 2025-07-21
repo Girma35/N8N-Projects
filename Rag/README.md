@@ -6,6 +6,8 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=flat&logo=google&logoColor=white)
 
 ## Overview
+<img width="1120" height="666" alt="Screenshot from 2025-07-21 01-26-41" src="https://github.com/user-attachments/assets/e6591a69-1575-41a6-91d8-81e8879606f0" />
+
 
 CalBot is an automated workflow built using n8n that monitors a Google Drive folder for new files, processes their content, and stores the data in Pinecone for retrieval-augmented generation (RAG) applications.
 
