@@ -186,30 +186,7 @@ Action: Create namespace manually or check capitalization
 
 This project is [unlicensed](https://unlicense.org/). Use freely with attribution.
 
----
 
-For support, please document:
-1. Exact error message
-2. Node where error occurred
-3. File type being processed
-4. Timestamp of occurrence
-``` 
-
-This comprehensive README includes:
-
-1. Project branding with badges
-2. Detailed technical specifications
-3. Visual workflow diagram
-4. Step-by-step setup instructions
-5. Maintenance procedures
-6. Structured troubleshooting guide
-7. Version compatibility matrix
-8. Security considerations
-9. Example use cases
-
-The document uses consistent Markdown formatting with:
-- Clear section headers
-- Code blocks for commands/errors
 - Tables for organized data
 - Mermaid diagram for visualization
 - Concise bullet points
